@@ -1,6 +1,6 @@
 # aitc_task
 
-eighty_three
+
 work with getx state management and mvc pattern
 
 package: Iam used Dio : to get data from api , Getx: for state management and navigation
