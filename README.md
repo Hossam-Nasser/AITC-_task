@@ -1,16 +1,22 @@
 # aitc_task
 
-A new Flutter application.
+eighty_three
+work with getx state management and mvc pattern
 
-## Getting Started
+package: Iam used Dio : to get data from api , Getx: for state management and navigation
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Screenshot
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![photo_2022-07-06_23-27-25](https://user-images.githubusercontent.com/60829984/177646576-0f545365-36bb-46b2-a47f-759e4f671114.jpg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+video for app :
+
+
+
+https://user-images.githubusercontent.com/60829984/177646621-92e88eba-1d76-42af-b34a-1278134b2d76.mp4
+
+
+
